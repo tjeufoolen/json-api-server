@@ -16,4 +16,4 @@ Most basic example on quickly setting up a REST api using [json-server](https://
 
 ## License
 
-MIT
+[MIT](./LICENSE.txt)
